@@ -5,3 +5,5 @@ System.out.println(s);
 }
 }
 }
+javac Main.java;
+java Main arg1 arg2 arg3;
